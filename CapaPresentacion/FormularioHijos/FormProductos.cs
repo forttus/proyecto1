@@ -135,8 +135,12 @@ namespace CapaPresentacion
 
         }
 
+
         #endregion
 
-
+        private void BtnAgregarProducto_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("Botón 'Agregar Producto' fue presionado.");
+        }
     }
 }
