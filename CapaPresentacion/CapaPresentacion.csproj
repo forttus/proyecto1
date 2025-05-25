@@ -176,11 +176,23 @@
     <Compile Include="FormularioHijos\FormVentas.Designer.cs">
       <DependentUpon>FormVentas.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormularioHijos\Productos\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormularioHijos\Productos\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormularioHijos\Productos\F_Productos.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormularioHijos\Productos\F_Productos.Designer.cs">
       <DependentUpon>F_Productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormularioHijos\Productos\prueba3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormularioHijos\Productos\prueba3.Designer.cs">
+      <DependentUpon>prueba3.cs</DependentUpon>
     </Compile>
     <Compile Include="Inicio.cs">
       <SubType>Form</SubType>
@@ -225,6 +237,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormularioHijos\FormVentas.resx">
       <DependentUpon>FormVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormularioHijos\Productos\prueba3.resx">
+      <DependentUpon>prueba3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Inicio.resx">
       <DependentUpon>Inicio.cs</DependentUpon>
