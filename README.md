@@ -12,4 +12,4 @@ Sistema de Venta Tienda de Ferreteria
 
 AGREGANDO ESTAS DOS REFERENCIAS NO DEBERIAS TENER PROBLEMAS. ....
 
-SALUDOS!!!
+SALUDOS!!!pan
